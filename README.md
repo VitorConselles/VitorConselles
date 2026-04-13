@@ -1,16 +1,58 @@
+# 👋 Hi there, I'm Vitor Conselles
 
-<div align="center">
-  <a href="https://github.com/VitorConselles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorConselles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorConselles&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+💼 SAP Business One Consultant | Integration Developer | Tech Lead  
+🎯 Focused on ERP solutions, integrations, and financial systems  
 
-  ##
- 
-<div> 
-  <a href = "mailto:vitorhugoc.correia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-hugo-conselles-897456148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/VitorConselles/VitorConselles/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## 🧠 About Me
+
+I’m a SAP Business One specialist with over 6 years of experience working with:
+
+- ERP implementations
+- Business process analysis
+- System integrations
+- Financial and accounting solutions
+
+I combine **technical expertise** with **business knowledge** (Accounting background) to build scalable and efficient solutions.
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Backend & Integration
+- .NET / C#
+- REST APIs
+- SAP B1 Integration Framework (B1iF)
+- SAP B1 Service Layer
+
+### 🗄️ Databases
+- SAP HANA (SQL, Calculation Views)
+- Microsoft SQL Server
+
+### 📊 Reporting & Analytics
+- SAP Crystal Reports
+- Power BI
+
+
+## 📌 What I Do
+
+- 🔗 Build integrations between SAP B1 and external systems  
+- 📊 Create dashboards and reports for business insights  
+- 🧾 Develop financial solutions (AR, AP, invoicing, tax flows)  
+- 🏗️ Design scalable architectures for ERP environments  
+- 👨‍💻 Support teams as a Tech Lead  
+
+
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-hugo-conselles-897456148)
+- 📧 Email: vitorhugoc.correia@live.com
+
+---
+
+## ⚡ Fun Fact
+
+I love learning languages and new things :) 
+
